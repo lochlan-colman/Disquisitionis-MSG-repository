@@ -1,0 +1,5 @@
+{
+  "name": "Disquisitionis MSG repository",
+  "description": "A powerful local tool to parse Outlook .msg files, extract metadata, body text, and attachments purely in the browser.",
+  "requestFramePermissions": []
+}
